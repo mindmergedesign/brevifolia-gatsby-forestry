@@ -5,3 +5,4 @@ title: test post
 author: Robert Thoreau
 
 ---
+lorem ipsum non dolor
